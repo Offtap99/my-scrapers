@@ -2,8 +2,8 @@
   "1": [
     "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentio.json",
     "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/comet.json",
-    "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/knightcrawler.json",
-    "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/mediafusion.json"
+    "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/mediafusion.json",
+    "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/stream.json"
   ],
   "2": [
     "https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_DebridOnly/rlsbb.json",
